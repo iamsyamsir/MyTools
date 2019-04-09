@@ -235,7 +235,7 @@ fi
 if [$ pil = 12]
 kemudian
 bersih
-figlet -f miring "SABAR SAIKO SUNDALA" | Ulolcat
+figlet -f miring "SABAR SAIKO SUNDALA" | lolcat
 tidur 2
 echo $ cy "Terima Kasih sudah mengunakan Alat ini"
 tidur 2
